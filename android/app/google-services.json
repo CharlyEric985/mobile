@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "63167181431",
+    "project_id": "notification-de06a",
+    "storage_bucket": "notification-de06a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63167181431:android:816aa40dff2698655fcc72",
+        "android_client_info": {
+          "package_name": "com.eric.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63167181431-3vc91ukb7sp67ltu5k7rinsbkr6418s1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyg-z6Oh1Bfn79kFaPlAM3NM20hM7lfmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63167181431-3vc91ukb7sp67ltu5k7rinsbkr6418s1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "63167181431-89v3b7uquh64or0gd0bb3jsjqdve6ome.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.ionic.starter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
